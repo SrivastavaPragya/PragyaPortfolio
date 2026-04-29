@@ -5,7 +5,7 @@ import { FaArrowRight, FaDownload } from "react-icons/fa";
 import Info from "../../components/Info";
 import Stats from "../../components/Stats";
 import ResumeItem from "../../components/ResumeItem";
-import CV from "../../assets/PragyaSrivastava_Resume.pdf";
+import CV from "../../assets/resume.pdf";
 import Skills from "../../components/Skills";
 import { resume } from "../../data";
 import "./About.css";
