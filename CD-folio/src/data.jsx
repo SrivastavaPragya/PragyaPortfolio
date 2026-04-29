@@ -231,7 +231,7 @@ export const resume = [
     category: "projects",
     icon: <HiCode />,
     year: " NextJS| LLM | JavaScript",
-    title: `<a href="https://next-skill-sphere.vercel.app/" target='blank' style="color: inherit; text-decoration: none;">eLearny  <span> Full Stack AI learning hub</span></a>`,
+    title: `<a href="https://ai-elearny.vercel.app/" target='blank' style="color: inherit; text-decoration: none;">eLearny  <span> Full Stack AI learning hub</span></a>`,
     desc: `• Transformed ’eLearny’ into AI-driven course hub by integrating the latest LLM models to deliver personalized
 course recommendations and quiz generation for any course, boosting learner engagement by 45%. <br><br>
     • Integrated a secure Stripe payment gateway, enabling seamless subscription handling and increasing monetiza-
@@ -511,6 +511,11 @@ export const skills = [
     title: "LLMs and LangChain",
     percentage: "80",
   },
+  {
+    id: 15,
+    title: "RAG,VecotorDBs ",
+    percentage: "80",
+  },
 ];
 
 export const portfolio = [
@@ -522,7 +527,7 @@ export const portfolio = [
       {
         icon: <FiExternalLink />,
         title: "Website : ",
-        desc: `<a href="https://next-skill-sphere.vercel.app/"" target='blank'>https://next-skill-sphere.vercel.app/"</a>`,
+        desc: `<a href="https://ai-elearny.vercel.app/"" target='blank'>https://ai-elearny.vercel.app/"</a>`,
       },
     ],
   },
